@@ -1,0 +1,44 @@
+[
+  {
+    "products": [
+      {
+        "name": "name",
+        "description": "descripción",
+        "code": "código",
+        "pic": "https://placeimg.com/640/480/any",
+        "price": 111,
+        "stock": 8,
+        "id": 7,
+        "timestamp": 1660112504102
+      }
+    ],
+    "id": 1,
+    "timestamp": 1660112178293
+  },
+  {
+    "products": [
+      {
+        "name": "name",
+        "description": "descripción",
+        "code": "código",
+        "pic": "https://placeimg.com/640/480/any",
+        "price": 111,
+        "stock": 14,
+        "id": 6,
+        "timestamp": 1660112476859
+      },
+      {
+        "name": "name",
+        "description": "descripción",
+        "code": "código",
+        "pic": "https://placeimg.com/640/480/any",
+        "price": 111,
+        "stock": 8,
+        "id": 7,
+        "timestamp": 1660112504102
+      }
+    ],
+    "id": 2,
+    "timestamp": 1660112185249
+  }
+]
